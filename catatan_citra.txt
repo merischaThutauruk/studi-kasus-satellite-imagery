@@ -1,0 +1,3 @@
+[CATATAN PENGINDERAAN JAUH CITRA SATELIT]
+- Sentinel-1 (SAR): Efektif menembus awan dan mendeteksi kelembapan serta genangan air/banjir[cite: 2].
+- Sentinel-2 (Optik): Menyediakan informasi pantulan warna dan indeks vegetasi beresolusi tinggi, namun terkendala tutupan awan di wilayah tropis[cite: 2].

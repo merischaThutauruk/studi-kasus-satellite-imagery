@@ -1,0 +1,617 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.086861,
+                    1.591352
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1001",
+                "wilayah": "Sulawesi",
+                "sentinel_1_sar": 0.1254,
+                "sentinel_2_optik": 0.2703,
+                "luas_gangguan_ha": 38.74
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.817273,
+                    -0.765682
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1002",
+                "wilayah": "Sulawesi",
+                "sentinel_1_sar": 0.2764,
+                "sentinel_2_optik": 0.6419,
+                "luas_gangguan_ha": 122.37
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.067686,
+                    -10.889521
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1003",
+                "wilayah": "Sulawesi",
+                "sentinel_1_sar": 0.3722,
+                "sentinel_2_optik": 0.3166,
+                "luas_gangguan_ha": 143.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.266309,
+                    -5.277893
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1004",
+                "wilayah": "Kalimantan",
+                "sentinel_1_sar": 0.3872,
+                "sentinel_2_optik": 0.458,
+                "luas_gangguan_ha": 43.36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.133544,
+                    -10.261342
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1005",
+                "wilayah": "Kalimantan",
+                "sentinel_1_sar": 0.8785,
+                "sentinel_2_optik": 0.4839,
+                "luas_gangguan_ha": 85.05
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.451909,
+                    3.099879
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1006",
+                "wilayah": "Papua",
+                "sentinel_1_sar": 0.5619,
+                "sentinel_2_optik": 0.7284,
+                "luas_gangguan_ha": 11.64
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.311846,
+                    -7.125729
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1007",
+                "wilayah": "Kalimantan",
+                "sentinel_1_sar": 0.7843,
+                "sentinel_2_optik": 0.8499,
+                "luas_gangguan_ha": 60.12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.36908,
+                    -3.292025
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1008",
+                "wilayah": "Sumatera",
+                "sentinel_1_sar": 0.3961,
+                "sentinel_2_optik": 0.3571,
+                "luas_gangguan_ha": 43.71
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.809628,
+                    4.923128
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1009",
+                "wilayah": "Sumatera",
+                "sentinel_1_sar": 0.5273,
+                "sentinel_2_optik": 0.3836,
+                "luas_gangguan_ha": 72.03
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.476611,
+                    -7.106183
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1011",
+                "wilayah": "Papua",
+                "sentinel_1_sar": 0.4209,
+                "sentinel_2_optik": 0.2496,
+                "luas_gangguan_ha": 137.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.024056,
+                    -1.357939
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1012",
+                "wilayah": "Sumatera",
+                "sentinel_1_sar": 0.6244,
+                "sentinel_2_optik": 0.4967,
+                "luas_gangguan_ha": 137.61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.184488,
+                    -3.199519
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1013",
+                "wilayah": "Sumatera",
+                "sentinel_1_sar": 0.696,
+                "sentinel_2_optik": 0.6042,
+                "luas_gangguan_ha": 113.32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.842515,
+                    -3.716625
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1014",
+                "wilayah": "Papua",
+                "sentinel_1_sar": 0.2755,
+                "sentinel_2_optik": 0.9482,
+                "luas_gangguan_ha": 78.88
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.167353,
+                    -9.45454
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1015",
+                "wilayah": "Kalimantan",
+                "sentinel_1_sar": 0.2223,
+                "sentinel_2_optik": 0.32,
+                "luas_gangguan_ha": 103.67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.699296,
+                    -0.861046
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1016",
+                "wilayah": "Sulawesi",
+                "sentinel_1_sar": 0.5233,
+                "sentinel_2_optik": 0.9283,
+                "luas_gangguan_ha": 129.81
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.153204,
+                    -10.804823
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1017",
+                "wilayah": "Papua",
+                "sentinel_1_sar": 0.7149,
+                "sentinel_2_optik": 0.4551,
+                "luas_gangguan_ha": 47.56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.149285,
+                    -8.311318
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1018",
+                "wilayah": "Papua",
+                "sentinel_1_sar": 0.8775,
+                "sentinel_2_optik": 0.7715,
+                "luas_gangguan_ha": 78.61
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.763809,
+                    -9.191016
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1019",
+                "wilayah": "Sumatera",
+                "sentinel_1_sar": 0.2223,
+                "sentinel_2_optik": 0.7719,
+                "luas_gangguan_ha": 83.21
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.324783,
+                    -4.829327
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1021",
+                "wilayah": "Papua",
+                "sentinel_1_sar": 0.2916,
+                "sentinel_2_optik": 0.3807,
+                "luas_gangguan_ha": 87.27
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.667749,
+                    -9.66113
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1022",
+                "wilayah": "Kalimantan",
+                "sentinel_1_sar": 0.8824,
+                "sentinel_2_optik": 0.5995,
+                "luas_gangguan_ha": 23.24
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.555039,
+                    0.215764
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1023",
+                "wilayah": "Sumatera",
+                "sentinel_1_sar": 0.312,
+                "sentinel_2_optik": 0.8543,
+                "luas_gangguan_ha": 66.36
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.80762,
+                    -7.399431
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1024",
+                "wilayah": "Sumatera",
+                "sentinel_1_sar": 0.6704,
+                "sentinel_2_optik": 0.4992,
+                "luas_gangguan_ha": 102.39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.382248,
+                    -4.651851
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1025",
+                "wilayah": "Sulawesi",
+                "sentinel_1_sar": 0.1968,
+                "sentinel_2_optik": 0.3685,
+                "luas_gangguan_ha": 54.02
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.585278,
+                    -0.998752
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1026",
+                "wilayah": "Sumatera",
+                "sentinel_1_sar": 0.1058,
+                "sentinel_2_optik": 0.7309,
+                "luas_gangguan_ha": 13.54
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.444996,
+                    -9.854194
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1027",
+                "wilayah": "Papua",
+                "sentinel_1_sar": 0.1567,
+                "sentinel_2_optik": 0.3785,
+                "luas_gangguan_ha": 102.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.086345,
+                    -7.357974
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1028",
+                "wilayah": "Sulawesi",
+                "sentinel_1_sar": 0.2944,
+                "sentinel_2_optik": 0.5547,
+                "luas_gangguan_ha": 64.02
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.313206,
+                    -9.396461
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1029",
+                "wilayah": "Papua",
+                "sentinel_1_sar": 0.4389,
+                "sentinel_2_optik": 0.5503,
+                "luas_gangguan_ha": 110.72
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.813143,
+                    -9.142426
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1031",
+                "wilayah": "Sulawesi",
+                "sentinel_1_sar": 0.2121,
+                "sentinel_2_optik": 0.3376,
+                "luas_gangguan_ha": 72.08
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.467705,
+                    3.866261
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1032",
+                "wilayah": "Kalimantan",
+                "sentinel_1_sar": 0.1405,
+                "sentinel_2_optik": 0.9495,
+                "luas_gangguan_ha": 126.22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.612881,
+                    5.472936
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1033",
+                "wilayah": "Sumatera",
+                "sentinel_1_sar": 0.233,
+                "sentinel_2_optik": 0.5642,
+                "luas_gangguan_ha": 35.99
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.697228,
+                    -4.182315
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1034",
+                "wilayah": "Sulawesi",
+                "sentinel_1_sar": 0.1017,
+                "sentinel_2_optik": 0.4928,
+                "luas_gangguan_ha": 139.35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.121465,
+                    2.347199
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1035",
+                "wilayah": "Sulawesi",
+                "sentinel_1_sar": 0.2238,
+                "sentinel_2_optik": 0.4225,
+                "luas_gangguan_ha": 145.46
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.940979,
+                    -1.153935
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1036",
+                "wilayah": "Papua",
+                "sentinel_1_sar": 0.1457,
+                "sentinel_2_optik": 0.6381,
+                "luas_gangguan_ha": 77.91
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.241905,
+                    3.496238
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1037",
+                "wilayah": "Kalimantan",
+                "sentinel_1_sar": 0.7811,
+                "sentinel_2_optik": 0.2514,
+                "luas_gangguan_ha": 14.85
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.573675,
+                    3.650926
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1038",
+                "wilayah": "Sumatera",
+                "sentinel_1_sar": 0.5631,
+                "sentinel_2_optik": 0.2298,
+                "luas_gangguan_ha": 16.89
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.000438,
+                    0.175344
+                ]
+            },
+            "properties": {
+                "id_alert": "ALT-2026-1039",
+                "wilayah": "Papua",
+                "sentinel_1_sar": 0.8478,
+                "sentinel_2_optik": 0.3532,
+                "luas_gangguan_ha": 108.85
+            }
+        }
+    ]
+}
